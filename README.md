@@ -14,7 +14,7 @@ Use the “Get Event Details” API to fetch all the details of a single event.
 Recommended to show a Loading Screen while fetching data from API.
 ## Events Application using API 
 ![tif](https://github.com/jaya2523/Events-App/assets/93309776/08a84343-2e75-4b44-ac02-9116a325b2b3)
-This Applicaiton is Created using BLOC Http Get having 
+### This Applicaiton is Created using BLOC Http Get having 
 - blocs folder consist of app_blocs.dart, app_events.dart, app_states.dart
 - models folder consist of user_models.dart
 - repos folder consist of repositories.dart
